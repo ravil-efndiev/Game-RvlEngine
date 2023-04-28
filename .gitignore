@@ -1,0 +1,10 @@
+# CMake shit
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Makefile, fuck you
+Makefile
+
+# .vscode directory
+.vscode
