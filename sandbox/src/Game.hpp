@@ -1,9 +1,9 @@
-#ifndef SB_GAME_HPP
-#define SB_GAME_HPP
+#ifndef KZ_GAME_HPP
+#define KZ_GAME_HPP
 
 #include "MainScene.hpp"
 
-namespace name
+namespace kz
 {
     class Game : public rvl::RvlApp
     {

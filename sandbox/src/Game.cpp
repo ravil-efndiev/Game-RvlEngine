@@ -3,7 +3,7 @@
 // !!INCLUDE ONLY ONCE INSIDE CPP FILE THAT IMPLEMENTS OnInit!!
 #include <RVL/Core/EntryPoint.hpp>
 
-namespace name
+namespace kz
 {
     using namespace rvl;
 
@@ -30,5 +30,5 @@ namespace name
 
 rvl::Scope<rvl::RvlApp> rvl::OnInit()
 {
-    return rvl::CreateScope<name::Game>();
+    return rvl::CreateScope<kz::Game>();
 }
